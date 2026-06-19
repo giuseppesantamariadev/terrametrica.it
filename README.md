@@ -18,7 +18,7 @@ The project is not only focused on the user interface, but also on application s
 
 I introduced Terrametrica on LinkedIn as part of my professional portfolio journey.
 
-[Read the LinkedIn post]([INSERISCI-QUI-IL-LINK-DEL-POST](https://www.linkedin.com/posts/giuseppesantamaria-dev_dotnet-react-typescript-share-7473678931779338241-hJB1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk15NYBgvm2l_UCdWEZpp3SwNW8kicOLnM))
+[Read the LinkedIn post](https://www.linkedin.com/posts/giuseppesantamaria-dev_dotnet-react-typescript-share-7473678931779338241-hJB1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk15NYBgvm2l_UCdWEZpp3SwNW8kicOLnM)
 
 ## Main Features
 
