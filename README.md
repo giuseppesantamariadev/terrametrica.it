@@ -2,6 +2,8 @@
 
 **Agritech Monitoring Platform**
 
+![Terrametrica — Agritech Monitoring Platform](.terrametrica-cover.png)
+
 Terrametrica is a portfolio project focused on agritech software, land monitoring, water management, reporting and IoT device integration.
 
 The goal of the project is to demonstrate the design and development of a modern business-oriented application using a React frontend, a .NET backend and a PostgreSQL database.
@@ -11,6 +13,12 @@ The goal of the project is to demonstrate the design and development of a modern
 Terrametrica is a platform designed to help monitor agricultural fields, operational zones, water usage, sensor data and device status through a clear and structured dashboard.
 
 The project is not only focused on the user interface, but also on application structure, data modeling, API design and future backend integration.
+
+## Project Announcement
+
+I introduced Terrametrica on LinkedIn as part of my professional portfolio journey.
+
+[Read the LinkedIn post]([INSERISCI-QUI-IL-LINK-DEL-POST](https://www.linkedin.com/posts/giuseppesantamaria-dev_dotnet-react-typescript-share-7473678931779338241-hJB1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk15NYBgvm2l_UCdWEZpp3SwNW8kicOLnM))
 
 ## Main Features
 
