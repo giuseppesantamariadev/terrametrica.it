@@ -2,7 +2,7 @@
 
 **Agritech Monitoring Platform**
 
-![Terrametrica — Agritech Monitoring Platform](.terrametrica-cover.png)
+![Terrametrica — Agritech Monitoring Platform](terrametrica-cover.png)
 
 Terrametrica is a portfolio project focused on agritech software, land monitoring, water management, reporting and IoT device integration.
 
